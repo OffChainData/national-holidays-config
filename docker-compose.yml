@@ -1,0 +1,7 @@
+version: '3'
+services:
+  holiday-sources:
+    container_name: national-holidays-config
+    ports:
+      - "8185:8000"
+    build: .
