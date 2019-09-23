@@ -9,6 +9,10 @@ import urllib.parse as urlparse
 import json
 
 def get_holidays():
+    """
+    Loop through all conf files for every country and return all holidays
+    :return: array
+    """
     countries = []
     errors = []
     walk_dir = "./conf"
@@ -24,8 +28,6 @@ def get_holidays():
                     countries.append(item)
                 except yaml.YAMLError as exc:
                     errors.append(exc)
-
-
     return countries, errors
 
 class RequestHandler(BaseHTTPRequestHandler):
