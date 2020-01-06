@@ -46,4 +46,32 @@ describe 'Public Holidays' do
       end
     end
   end
+
+  describe 'must have clean names' do
+    Dir.chdir(TestUtils.config_directory) do
+      Dir.glob('*/*.yml').each do |region_file|
+        region_data = YAML.safe_load(File.read(region_file))
+
+        region_name = region_data['name']
+
+        region_data['years'].values.each do |holidays|
+          holidays.each do |holiday|
+            holiday['names'].values.each do |name|
+              it "region #{region_name} holiday #{name} does not end with a comma" do
+                name.wont_match(/,$/)
+              end
+
+              it "region #{region_name} holiday #{name} does not end with whitespace" do
+                name.wont_match(/\s$/)
+              end
+
+              it "region #{region_name} holiday #{name} does not contain any smart quotes" do
+                name.wont_match(/[‘’]/)
+              end
+            end
+          end
+        end
+      end
+    end
+  end
 end

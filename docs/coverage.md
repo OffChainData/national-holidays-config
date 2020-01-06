@@ -1,6 +1,6 @@
 # Coverage
 
-Last updated 2019-09-13.
+Last updated 2019-12-17.
 
 | Flag | Country | Region | Latest Public Holidays Year | Known Public Holidays | Latest Non-public Holidays Year | Known Non-public Holidays |
 | ---- | ------- | ------ | --------------------------- | --------------------- | ------------------------------- | ------------------------- |
@@ -30,7 +30,7 @@ Last updated 2019-09-13.
 | 🇧🇭 | Bahrain | Bahrain (all) | 2020 | 16 | - | - |
 | 🇧🇩 | Bangladesh | No Data | - | - | - | - |
 | 🇧🇧 | Barbados | No Data | - | - | - | - |
-| 🇧🇾 | Belarus | Belarus | 2020 | 10 | - | - |
+| 🇧🇾 | Belarus | Belarus | 2020 | 10 | 2019 | 12 |
 | 🇧🇪 | Belgium | Belgium (all) | 2040 | 12 | - | - |
 | 🇧🇿 | Belize | No Data | - | - | - | - |
 | 🇧🇯 | Benin | No Data | - | - | - | - |
@@ -44,7 +44,7 @@ Last updated 2019-09-13.
 | 🇧🇷 | Brazil | Brazil (all) | 2040 | 15 | - | - |
 | 🇮🇴 | British Indian Ocean Territory | No Data | - | - | - | - |
 | 🇧🇳 | Brunei Darussalam | No Data | - | - | - | - |
-| 🇧🇬 | Bulgaria | Bulgaria (all) | 2018 | 19 | - | - |
+| 🇧🇬 | Bulgaria | Bulgaria (all) | 2020 | 16 | - | - |
 | 🇧🇫 | Burkina Faso | No Data | - | - | - | - |
 | 🇧🇮 | Burundi | No Data | - | - | - | - |
 | 🇨🇻 | Cabo Verde | No Data | - | - | - | - |
@@ -79,8 +79,8 @@ Last updated 2019-09-13.
 | 🇭🇷 | Croatia | Croatia (all) | 2040 | 14 | - | - |
 | 🇨🇺 | Cuba | No Data | - | - | - | - |
 | 🇨🇼 | Curaçao | No Data | - | - | - | - |
-| 🇨🇾 | Cyprus | No Data | - | - | - | - |
-| 🇨🇿 | Czechia | Czech Republic (all) | 2040 | 13 | - | - |
+| 🇨🇾 | Cyprus | Cyprus | 2021 | 13 | - | - |
+| 🇨🇿 | Czech Republic | Czech Republic (all) | 2040 | 13 | - | - |
 | 🇨🇮 | Côte d'Ivoire | No Data | - | - | - | - |
 | 🇩🇰 | Denmark | Denmark (all) | 2040 | 13 | - | - |
 | 🇩🇯 | Djibouti | No Data | - | - | - | - |
@@ -223,7 +223,7 @@ Last updated 2019-09-13.
 | 🇵🇦 | Panama | No Data | - | - | - | - |
 | 🇵🇬 | Papua New Guinea | No Data | - | - | - | - |
 | 🇵🇾 | Paraguay | No Data | - | - | - | - |
-| 🇵🇪 | Peru | No Data | - | - | - | - |
+| 🇵🇪 | Peru | Peru (all) | 2021 | 12 | - | - |
 | 🇵🇭 | Philippines | Philippines (all) | 2020 | 16 | - | - |
 | 🇵🇳 | Pitcairn | No Data | - | - | - | - |
 | 🇵🇱 | Poland | Poland (all) | 2040 | 13 | - | - |
@@ -275,6 +275,7 @@ Last updated 2019-09-13.
 | 🇸🇿 | Swaziland | No Data | - | - | - | - |
 | 🇸🇪 | Sweden | Sweden (all) | 2040 | 16 | - | - |
 | 🇨🇭 | Switzerland | Geneva | 2020 | 9 | - | - |
+| 🇨🇭 | Switzerland | Zug | 2020 | 13 | - | - |
 | 🇨🇭 | Switzerland | Zurich | 2020 | 13 | - | - |
 | 🇸🇾 | Syrian Arab Republic | No Data | - | - | - | - |
 | 🇹🇼 | Taiwan, Province of China | Taiwan (all) | 2030 | 14 | - | - |
@@ -293,7 +294,7 @@ Last updated 2019-09-13.
 | 🇹🇻 | Tuvalu | No Data | - | - | - | - |
 | 🇺🇬 | Uganda | No Data | - | - | - | - |
 | 🇺🇦 | Ukraine | Ukraine (all) | 2040 | 13 | - | - |
-| 🇦🇪 | United Arab Emirates | Dubai (all) | 2020 | 15 | - | - |
+| 🇦🇪 | United Arab Emirates | Dubai (all) | 2020 | 14 | - | - |
 | 🇦🇪 | United Arab Emirates | United Arab Emirates (all) | 2018 | 12 | - | - |
 | 🇬🇧 | United Kingdom of Great Britain and Northern Ireland | England | 2040 | 8 | - | - |
 | 🇬🇧 | United Kingdom of Great Britain and Northern Ireland | Wales | 2040 | 8 | - | - |
@@ -365,4 +366,4 @@ Last updated 2019-09-13.
 | 🇿🇼 | Zimbabwe | No Data | - | - | - | - |
 | 🇦🇽 | Åland Islands | No Data | - | - | - | - |
 
-Total coverage: 82 / 249
+Total coverage: 84 / 249
